@@ -1,0 +1,54 @@
+  <svg
+  width="1920"
+  height="1080"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  id="paper"
+  class="paper position-absolute  w-full h-full z-0"
+>
+  <link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="animation.css" type="text/css"/>
+  <defs></defs>
+  <g
+    stroke="#40916c"
+
+    fill="#40916c"
+    style="stroke-width: 0"
+    class="diamonds"
+    opacity="0.5"
+    
+    
+  >
+    <polygon class="particle" points="192,0,208,28,192,56,176,28,192,0"></polygon>
+    <polygon class="particle" points="480,0,496,28,480,56,464,28,480,0"></polygon>
+    <polygon class="particle" points="768,0,784,28,768,56,752,28,768,0"></polygon>
+    <polygon class="particle" points="1056,0,1072,28,1056,56,1040,28,1056,0"></polygon>
+    <polygon class="particle" points="1344,0,1360,28,1344,56,1328,28,1344,0"></polygon>
+    <polygon class="particle" points="1632,0,1648,28,1632,56,1616,28,1632,0"></polygon>
+    <polygon class="particle" points="1920,0,1936,28,1920,56,1904,28,1920,0"></polygon>
+    <polygon class="particle" points="2208,0,2224,28,2208,56,2192,28,2208,0"></polygon>
+    <polygon class="particle" points="2496,0,2512,28,2496,56,2480,28,2496,0"></polygon>
+    <polygon class="particle" points="2784,0,2800,28,2784,56,2768,28,2784,0"></polygon>
+    <polygon class="particle" points="3072,0,3088,28,3072,56,3056,28,3072,0"></polygon>
+    <polygon class="particle" points="3360,0,3376,28,3360,56,3344,28,3360,0"></polygon>
+    <polygon class="particle" points="192,166,208,194,192,222,176,194,192,166"></polygon>
+    <polygon class="particle" points="480,166,496,194,480,222,464,194,480,166"></polygon>
+    <polygon class="particle" points="768,166,784,194,768,222,752,194,768,166"></polygon>
+    <polygon class="particle" points="1056,166,1072,194,1056,222,1040,194,1056,166"></polygon>
+    <polygon class="particle" points="1344,166,1360,194,1344,222,1328,194,1344,166"></polygon>
+    <polygon class="particle" points="1632,166,1648,194,1632,222,1616,194,1632,166" ></polygon>
+    <polygon class="particle" points="1920,166,1936,194,1920,222,1904,194,1920,166" ></polygon>
+    <polygon class="particle" points="2208,166,2224,194,2208,222,2192,194,2208,166"></polygon>
+    <polygon class="particle" points="2496,166,2512,194,2496,222,2480,194,2496,166"></polygon>
+    <polygon class="particle" points="2784,166,2800,194,2784,222,2768,194,2784,166"></polygon>
+    <polygon class="particle" points="3072,166,3088,194,3072,222,3056,194,3072,166"></polygon>
+    <polygon class="particle" points="3360,166,3376,194,3360,222,3344,194,3360,166"></polygon>
+    <polygon class="particle" points="192,332,208,360,192,388,176,360,192,332"></polygon>
+    <polygon class="particle" points="480,332,496,360,480,388,464,360,480,332"></polygon>
+    <polygon class="particle" points="768,332,784,360,768,388,752,360,768,332"></polygon>
+    <polygon class="particle" points="1056,332,1072,360,1056,388,1040,360,1056,332"></polygon>
+    <polygon class="particle" points="1344,332,1360,360,1344,388,1328,360,1344,332"></polygon>
+    <polygon class="particle" points="1632,332,1648,360,1632,388,1616,360,1632,332"></polygon>
+    <polygon class="particle" points="1920,332,1936,360,1920,388,1904,360,1920,332"></polygon>
+  
+  </g>
+</svg>
